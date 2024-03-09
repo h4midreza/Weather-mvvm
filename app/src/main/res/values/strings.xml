@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather-mvvm</string>
+    <string name="api_key">f0db66f720538124845826b46c705a4a</string>
+</resources>
